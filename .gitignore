@@ -7,3 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 */target/*
+
+product-service/src/main/resources/application.yaml
